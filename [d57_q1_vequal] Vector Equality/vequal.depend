@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1694943123 source:d:\intania#2 semester 1\intro to data structures\grader\[d57_q1_vequal] vector equality\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1694943123 d:\intania#2 semester 1\intro to data structures\grader\[d57_q1_vequal] vector equality\vector.h
+	<stdexcept>
+	<iostream>
+
+1694943295 d:\intania#2 semester 1\intro to data structures\grader\[d57_q1_vequal] vector equality\student.h
+

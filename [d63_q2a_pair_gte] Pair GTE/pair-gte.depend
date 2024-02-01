@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1694575764 source:d:\intania#2 semester 1\intro to data structures\grader\[d63_q2a_pair_gte] pair gte\main.cpp
+	<stdexcept>
+	<iostream>
+	"pair.h"
+	"student.h"
+	<string>
+
+1694575764 d:\intania#2 semester 1\intro to data structures\grader\[d63_q2a_pair_gte] pair gte\pair.h
+	<iostream>
+	<assert.h>
+
+1694576409 d:\intania#2 semester 1\intro to data structures\grader\[d63_q2a_pair_gte] pair gte\student.h
+

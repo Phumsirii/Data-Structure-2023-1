@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1697358562 source:d:\intania#2 semester 1\intro to data structures\grader\[d60_q2_heap_height] heap height\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<vector>
+	<stack>
+	"priority_queue.h"
+	"student.h"
+
+1697358562 d:\intania#2 semester 1\intro to data structures\grader\[d60_q2_heap_height] heap height\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1697359621 d:\intania#2 semester 1\intro to data structures\grader\[d60_q2_heap_height] heap height\student.h
+	<stdio.h>
+	"priority_queue.h"
+	<iostream>
+	<cmath>
+

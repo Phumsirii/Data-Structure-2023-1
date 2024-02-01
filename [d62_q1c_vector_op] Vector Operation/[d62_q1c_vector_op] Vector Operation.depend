@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1692374329 source:d:\intania#2 semester 1\intro to data structures\grader\[d62_q1c_vector_op] vector operation\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+

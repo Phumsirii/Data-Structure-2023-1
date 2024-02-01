@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692587380 source:d:\intania#2 semester 1\intro to data structures\grader\[ds01_most] most frequent word\main.cpp
+	<iostream>
+	<map>
+	<set>
+

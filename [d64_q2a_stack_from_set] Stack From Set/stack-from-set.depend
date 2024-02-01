@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1695180286 source:d:\intania#2 semester 1\intro to data structures\grader\[d64_q2a_stack_from_set] stack from set\main.cpp
+	<iostream>
+	<stack>
+	"student.h"
+	<assert.h>
+	<exception>
+	<set>
+	<string>
+	<sstream>
+
+1695180447 d:\intania#2 semester 1\intro to data structures\grader\[d64_q2a_stack_from_set] stack from set\student.h
+	"stack.h"
+
+1695050968 d:\intania#2 semester 1\intro to data structures\grader\[d64_q2a_stack_from_set] stack from set\stack.h
+	<stdexcept>
+	<iostream>
+	<set>
+

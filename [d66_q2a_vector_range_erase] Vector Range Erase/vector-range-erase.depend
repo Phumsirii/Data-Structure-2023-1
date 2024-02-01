@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1696848927 source:d:\intania#2 semester 1\intro to data structures\grader\[d66_q2a_vector_range_erase] vector range erase\main.cpp
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1696848927 d:\intania#2 semester 1\intro to data structures\grader\[d66_q2a_vector_range_erase] vector range erase\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1696860345 d:\intania#2 semester 1\intro to data structures\grader\[d66_q2a_vector_range_erase] vector range erase\student.h
+	"vector.h"
+	<algorithm>
+

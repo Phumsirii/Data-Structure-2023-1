@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1695050401 source:d:\intania#2 semester 1\intro to data structures\grader\[d63_q2b_stack_reserve] stack reserve compare\main.cpp
+	<iostream>
+	"stack.h"
+	"student.h"
+
+1695050401 d:\intania#2 semester 1\intro to data structures\grader\[d63_q2b_stack_reserve] stack reserve compare\stack.h
+	<stdexcept>
+	<iostream>
+
+1695050663 d:\intania#2 semester 1\intro to data structures\grader\[d63_q2b_stack_reserve] stack reserve compare\student.h
+

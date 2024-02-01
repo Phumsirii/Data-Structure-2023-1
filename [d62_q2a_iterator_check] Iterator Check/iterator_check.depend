@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1695013421 source:d:\intania#2 semester 1\intro to data structures\grader\[d62_q2a_iterator_check] iterator check\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+	<vector>
+
+1695013421 d:\intania#2 semester 1\intro to data structures\grader\[d62_q2a_iterator_check] iterator check\vector.h
+	<stdexcept>
+	<iostream>
+
+1695013595 d:\intania#2 semester 1\intro to data structures\grader\[d62_q2a_iterator_check] iterator check\student.h
+

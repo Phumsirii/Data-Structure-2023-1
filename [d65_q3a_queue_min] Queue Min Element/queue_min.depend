@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1696235882 source:d:\intania#2 semester 1\intro to data structures\grader\[d65_q3a_queue_min] queue min element\main.cpp
+	<iostream>
+	<string>
+	"queue.h"
+	"student.h"
+
+1696235882 d:\intania#2 semester 1\intro to data structures\grader\[d65_q3a_queue_min] queue min element\queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1696237986 d:\intania#2 semester 1\intro to data structures\grader\[d65_q3a_queue_min] queue min element\student.h
+	<algorithm>
+	<vector>
+

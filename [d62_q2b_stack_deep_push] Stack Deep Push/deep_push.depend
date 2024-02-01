@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1695013978 source:d:\intania#2 semester 1\intro to data structures\grader\[d62_q2b_stack_deep_push] stack deep push\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	"stack.h"
+	"student.h"
+
+1695013978 d:\intania#2 semester 1\intro to data structures\grader\[d62_q2b_stack_deep_push] stack deep push\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<stack>
+	<stdio.h>
+
+1695014190 d:\intania#2 semester 1\intro to data structures\grader\[d62_q2b_stack_deep_push] stack deep push\student.h
+

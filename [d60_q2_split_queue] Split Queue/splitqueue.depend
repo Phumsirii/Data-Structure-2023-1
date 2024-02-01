@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1695224930 source:d:\intania#2 semester 1\intro to data structures\grader\[d60_q2_split_queue] split queue\main.cpp
+	<iostream>
+	"queue.h"
+	"student.h"
+
+1695224090 d:\intania#2 semester 1\intro to data structures\grader\[d60_q2_split_queue] split queue\queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1695225367 d:\intania#2 semester 1\intro to data structures\grader\[d60_q2_split_queue] split queue\student.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<queue>
+	"queue.h"
+

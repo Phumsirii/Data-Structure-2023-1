@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1697605539 source:d:\intania#2 semester 1\intro to data structures\grader\[d64_q3b_heap_level] heap level\main.cpp
+	<algorithm>
+	<random>
+	<chrono>
+	<cassert>
+	<string>
+	"priority_queue.h"
+	"student.h"
+
+1697605539 d:\intania#2 semester 1\intro to data structures\grader\[d64_q3b_heap_level] heap level\priority_queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1697618341 d:\intania#2 semester 1\intro to data structures\grader\[d64_q3b_heap_level] heap level\student.h
+	<algorithm>
+	<vector>
+	"priority_queue.h"
+	<cmath>
+	<algorithm>
+

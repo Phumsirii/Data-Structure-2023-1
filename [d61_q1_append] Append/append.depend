@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1695227013 source:d:\intania#2 semester 1\intro to data structures\grader\[d61_q1_append] append\main.cpp
+	<iostream>
+	"student.h"
+
+1695227042 d:\intania#2 semester 1\intro to data structures\grader\[d61_q1_append] append\student.h
+	"stack.h"
+	"queue.h"
+
+1695225808 d:\intania#2 semester 1\intro to data structures\grader\[d61_q1_append] append\stack.h
+	<stdexcept>
+	<iostream>
+
+1695225808 d:\intania#2 semester 1\intro to data structures\grader\[d61_q1_append] append\queue.h
+	<stdexcept>
+	<iostream>
+

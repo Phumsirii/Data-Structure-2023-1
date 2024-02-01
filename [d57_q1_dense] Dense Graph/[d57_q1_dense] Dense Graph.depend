@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698634079 source:d:\intania#2 semester 1\intro to data structures\grader\[d57_q1_dense] dense graph\main_dense.cpp
+	"densegraph.h"
+	<iostream>
+
+1698638589 d:\intania#2 semester 1\intro to data structures\grader\[d57_q1_dense] dense graph\densegraph.h
+	<vector>
+

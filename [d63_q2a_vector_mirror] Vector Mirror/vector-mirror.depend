@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1695181790 source:d:\intania#2 semester 1\intro to data structures\grader\[d63_q2a_vector_mirror] vector mirror\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1695181790 d:\intania#2 semester 1\intro to data structures\grader\[d63_q2a_vector_mirror] vector mirror\vector.h
+	<stdexcept>
+	<iostream>
+
+1695196377 d:\intania#2 semester 1\intro to data structures\grader\[d63_q2a_vector_mirror] vector mirror\student.h
+	<stack>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697604487 source:d:\intania#2 semester 1\intro to data structures\grader\[d65_q3b_heap_check] heap check\main.cpp
+	"priority_queue.h"
+	"student.h"
+	<iostream>
+
+1697604487 d:\intania#2 semester 1\intro to data structures\grader\[d65_q3b_heap_check] heap check\priority_queue.h
+	<iostream>
+	<stdexcept>
+
+1697605337 d:\intania#2 semester 1\intro to data structures\grader\[d65_q3b_heap_check] heap check\student.h
+	"priority_queue.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1702559170 source:d:\2sem1\intro to data structures\grader\d66_f1_digital_wallet\main.cpp
+	<iostream>
+	"student.h"
+
+1702563558 d:\2sem1\intro to data structures\grader\d66_f1_digital_wallet\student.h
+	<string>
+	<bits/stdc++.h>
+

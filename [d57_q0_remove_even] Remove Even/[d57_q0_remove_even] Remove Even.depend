@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1692165438 source:d:\intania#2 semester 1\intro to data structures\grader\[d57_q0_remove_even] remove even\main.cpp
+	<iostream>
+	<vector>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1695215006 source:d:\intania#2 semester 1\intro to data structures\grader\[d58_q1_to_vector] queue to vector\main.cpp
+	<iostream>
+	<stack>
+	<assert.h>
+	"queue.h"
+	"student.h"
+
+1695215006 d:\intania#2 semester 1\intro to data structures\grader\[d58_q1_to_vector] queue to vector\queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1695217188 d:\intania#2 semester 1\intro to data structures\grader\[d58_q1_to_vector] queue to vector\student.h
+

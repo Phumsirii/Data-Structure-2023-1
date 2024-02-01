@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694518188 source:d:\intania#2 semester 1\intro to data structures\grader\booking\main.cpp
+	<iostream>
+	<set>
+	<queue>
+

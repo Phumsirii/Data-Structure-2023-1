@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1693067652 source:d:\intania#2 semester 1\intro to data structures\grader\[d63_qx_inside_interval] inside interval\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<map>
+	<algorithm>
+

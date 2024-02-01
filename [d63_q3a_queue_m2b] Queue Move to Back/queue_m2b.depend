@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1695305471 source:d:\intania#2 semester 1\intro to data structures\grader\[d63_q3a_queue_m2b] queue move to back\main.cpp
+	<iostream>
+	<vector>
+	"queue.h"
+	"student.h"
+	<stdio.h>
+
+1695305471 d:\intania#2 semester 1\intro to data structures\grader\[d63_q3a_queue_m2b] queue move to back\queue.h
+	<stdexcept>
+	<iostream>
+
+1695307083 d:\intania#2 semester 1\intro to data structures\grader\[d63_q3a_queue_m2b] queue move to back\student.h
+	<algorithm>
+	<iostream>
+

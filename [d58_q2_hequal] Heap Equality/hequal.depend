@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1697428786 source:d:\intania#2 semester 1\intro to data structures\grader\[d58_q2_hequal] heap equality\main.cpp
+	<stdexcept>
+	<iostream>
+	"priority_queue.h"
+	"student.h"
+	<vector>
+
+1697428786 d:\intania#2 semester 1\intro to data structures\grader\[d58_q2_hequal] heap equality\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1697431553 d:\intania#2 semester 1\intro to data structures\grader\[d58_q2_hequal] heap equality\student.h
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1697426973 source:d:\intania#2 semester 1\intro to data structures\grader\[d59_q2_heap_find] heap find\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<stack>
+	"priority_queue.h"
+	"student.h"
+
+1697426973 d:\intania#2 semester 1\intro to data structures\grader\[d59_q2_heap_find] heap find\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1697428401 d:\intania#2 semester 1\intro to data structures\grader\[d59_q2_heap_find] heap find\student.h
+	<stdio.h>
+	"priority_queue.h"
+	<iostream>
+	<cmath>
+	<algorithm>
+

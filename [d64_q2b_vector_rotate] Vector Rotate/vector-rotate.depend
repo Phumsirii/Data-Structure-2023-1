@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1695206979 source:d:\intania#2 semester 1\intro to data structures\grader\[d64_q2b_vector_rotate] vector rotate\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	<cassert>
+	"vector.h"
+	"student.h"
+
+1695206979 d:\intania#2 semester 1\intro to data structures\grader\[d64_q2b_vector_rotate] vector rotate\vector.h
+	<stdexcept>
+	<iostream>
+
+1695209855 d:\intania#2 semester 1\intro to data structures\grader\[d64_q2b_vector_rotate] vector rotate\student.h
+	<queue>
+

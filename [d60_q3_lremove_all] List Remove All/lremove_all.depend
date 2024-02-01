@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1698426892 source:d:\intania#2 semester 1\intro to data structures\grader\[d60_q3_lremove_all] list remove all\main.cpp
+	<stdexcept>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	"list.h"
+	"student.h"
+
+1698426892 d:\intania#2 semester 1\intro to data structures\grader\[d60_q3_lremove_all] list remove all\list.h
+	<stdexcept>
+	<iostream>
+
+1698427441 d:\intania#2 semester 1\intro to data structures\grader\[d60_q3_lremove_all] list remove all\student.h
+

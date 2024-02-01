@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1693671879 source:d:\intania#2 semester 1\intro to data structures\grader\[d64_q1a_second_min] second min\main.cpp
+	<algorithm>
+	<iostream>
+	<stack>
+	<queue>
+	<vector>
+	<set>
+	<map>
+	<list>
+

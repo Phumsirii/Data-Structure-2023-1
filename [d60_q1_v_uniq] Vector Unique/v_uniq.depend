@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1695011477 source:d:\intania#2 semester 1\intro to data structures\grader\[d60_q1_v_uniq] vector unique\main.cpp
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+	<stdio.h>
+	<stdlib.h>
+
+1695011477 d:\intania#2 semester 1\intro to data structures\grader\[d60_q1_v_uniq] vector unique\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1695012216 d:\intania#2 semester 1\intro to data structures\grader\[d60_q1_v_uniq] vector unique\student.h
+	<map>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1695790751 source:d:\intania#2 semester 1\intro to data structures\grader\[d65_q1a_delivery] food delivery\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<set>
+	<queue>
+

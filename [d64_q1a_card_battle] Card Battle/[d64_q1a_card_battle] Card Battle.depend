@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1692791323 source:d:\intania#2 semester 1\intro to data structures\grader\[d64_q1a_card_battle] card battle\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1698049293 source:d:\intania#2 semester 1\intro to data structures\grader\[d63_q4b_list_extract] list extract\main.cpp
+	<stdexcept>
+	<assert.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"list.h"
+	"student.h"
+
+1698049294 d:\intania#2 semester 1\intro to data structures\grader\[d63_q4b_list_extract] list extract\list.h
+	<stdexcept>
+	<iostream>
+
+1698051076 d:\intania#2 semester 1\intro to data structures\grader\[d63_q4b_list_extract] list extract\student.h
+	<algorithm>
+

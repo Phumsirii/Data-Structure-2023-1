@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1694941217 source:d:\intania#2 semester 1\intro to data structures\grader\[d59_q1_pop_many] pop many\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<stack>
+	"stack.h"
+	"student.h"
+
+1694941217 d:\intania#2 semester 1\intro to data structures\grader\[d59_q1_pop_many] pop many\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	<stack>
+
+1694942791 d:\intania#2 semester 1\intro to data structures\grader\[d59_q1_pop_many] pop many\student.h
+

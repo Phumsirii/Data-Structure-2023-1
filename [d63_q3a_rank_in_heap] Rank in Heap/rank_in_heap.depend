@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1697602782 source:d:\intania#2 semester 1\intro to data structures\grader\[d63_q3a_rank_in_heap] rank in heap\main.cpp
+	<iostream>
+	<vector>
+	"priority_queue.h"
+	"student.h"
+
+1697602782 d:\intania#2 semester 1\intro to data structures\grader\[d63_q3a_rank_in_heap] rank in heap\priority_queue.h
+	<stdexcept>
+	<iostream>
+
+1697604335 d:\intania#2 semester 1\intro to data structures\grader\[d63_q3a_rank_in_heap] rank in heap\student.h
+

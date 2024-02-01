@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1424794088 source:/dae/Teaching/Data Structure/2557 - b/quiz/dq1_postfix/package/main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	"student.cpp"
+
+1424795320 /dae/Teaching/Data Structure/2557 - b/quiz/dq1_postfix/package/student.cpp
+	<vector>
+
+1693192946 source:c:\users\victus\downloads\[d57_q1_postfix] evaluate postfix\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	"student.h"
+
+1693193535 c:\users\victus\downloads\[d57_q1_postfix] evaluate postfix\student.h
+	<vector>
+
+1693192946 source:d:\intania#2 semester 1\intro to data structures\grader\[d57_q1_postfix] evaluate postfix\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	"student.h"
+
+1693193535 d:\intania#2 semester 1\intro to data structures\grader\[d57_q1_postfix] evaluate postfix\student.h
+	<vector>
+
+1693192946 source:d:\2sem1\intro to data structures\grader\[d57_q1_postfix] evaluate postfix\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+	"student.h"
+
+1702541149 d:\2sem1\intro to data structures\grader\[d57_q1_postfix] evaluate postfix\student.h
+	<bits/stdc++.h>
+

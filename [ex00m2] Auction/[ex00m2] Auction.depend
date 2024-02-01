@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1694346678 source:d:\intania#2 semester 1\intro to data structures\grader\[ex00m2] auction\main.cpp
+	<iostream>
+	<map>
+	<set>
+	<queue>
+

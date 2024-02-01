@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694521677 source:d:\intania#2 semester 1\intro to data structures\grader\[d65_q1c_min_of_max] min of max\main.cpp
+	<iostream>
+	<algorithm>
+	<queue>
+

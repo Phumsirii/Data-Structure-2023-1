@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699264674 source:d:\intania#2 semester 1\intro to data structures\grader\[d66_q1c_company_department] company department\main.cpp
+	<iostream>
+	<map>
+	<set>
+

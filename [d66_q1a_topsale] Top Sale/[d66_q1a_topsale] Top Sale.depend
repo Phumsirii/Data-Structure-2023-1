@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694747146 source:d:\intania#2 semester 1\intro to data structures\grader\[d66_q1a_topsale] top sale\main.cpp
+	<iostream>
+	<map>
+	<set>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694358946 source:d:\intania#2 semester 1\intro to data structures\grader\[d65_q1a_multiply] member multiply\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1698045605 source:d:\intania#2 semester 1\intro to data structures\grader\[d64_q4a_list_merge] list merge\main.cpp
+	<cassert>
+	<vector>
+	<iostream>
+	<string>
+	"list.h"
+	"student.h"
+
+1698045604 d:\intania#2 semester 1\intro to data structures\grader\[d64_q4a_list_merge] list merge\list.h
+	<stdexcept>
+	<iostream>
+
+1698208206 d:\intania#2 semester 1\intro to data structures\grader\[d64_q4a_list_merge] list merge\student.h
+	<algorithm>
+

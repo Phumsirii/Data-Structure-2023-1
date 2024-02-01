@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1702392594 source:d:\2sem1\intro to data structures\grader\d66_f1_lcrs\main.cpp
+	<iostream>
+	<vector>
+	"student.h"
+
+1702393112 d:\2sem1\intro to data structures\grader\d66_f1_lcrs\student.h
+	<bits/stdc++.h>
+

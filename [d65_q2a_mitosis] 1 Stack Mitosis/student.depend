@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1695308934 source:d:\intania#2 semester 1\intro to data structures\grader\[d65_q2a_mitosis] 1 stack mitosis\main.cpp
+	"student.h"
+	<iostream>
+	<vector>
+
+1695309152 d:\intania#2 semester 1\intro to data structures\grader\[d65_q2a_mitosis] 1 stack mitosis\student.h
+	"stack.h"
+
+1695308934 d:\intania#2 semester 1\intro to data structures\grader\[d65_q2a_mitosis] 1 stack mitosis\stack.h
+	<stdexcept>
+	<iostream>
+	<set>
+

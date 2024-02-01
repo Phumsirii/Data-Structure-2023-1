@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696497242 source:d:\intania#2 semester 1\intro to data structures\grader\[d65_q1b_sparse_vector]_4_sparse vector\main.cpp
+	<iostream>
+	<vector>
+	<map>
+

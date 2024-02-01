@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1695310312 source:d:\intania#2 semester 1\intro to data structures\grader\[d65_q2b_some_move] vector some move\main.cpp
+	"student.h"
+	"vector-sm.h"
+	<iostream>
+	<vector>
+
+1695813923 d:\intania#2 semester 1\intro to data structures\grader\[d65_q2b_some_move] vector some move\student.h
+	"vector-sm.h"
+	<algorithm>
+	<iostream>
+	<vector>
+
+1695310312 d:\intania#2 semester 1\intro to data structures\grader\[d65_q2b_some_move] vector some move\vector-sm.h
+	<algorithm>
+	<iostream>
+	<stdexcept>
+	<vector>
+

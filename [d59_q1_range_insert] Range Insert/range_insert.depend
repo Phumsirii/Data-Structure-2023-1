@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1694948912 source:d:\intania#2 semester 1\intro to data structures\grader\[d59_q1_range_insert] range insert\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1694948913 d:\intania#2 semester 1\intro to data structures\grader\[d59_q1_range_insert] range insert\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1694952339 d:\intania#2 semester 1\intro to data structures\grader\[d59_q1_range_insert] range insert\student.h
+

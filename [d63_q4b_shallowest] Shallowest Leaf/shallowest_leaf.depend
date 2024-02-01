@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1699455908 source:d:\intania#2 semester 1\intro to data structures\grader\[d63_q4b_shallowest] shallowest leaf\main.cpp
+	<stdexcept>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<vector>
+
+1699455908 d:\intania#2 semester 1\intro to data structures\grader\[d63_q4b_shallowest] shallowest leaf\map_bst.h
+	<iostream>
+
+1699458570 d:\intania#2 semester 1\intro to data structures\grader\[d63_q4b_shallowest] shallowest leaf\student.h
+	<algorithm>
+	<iostream>
+

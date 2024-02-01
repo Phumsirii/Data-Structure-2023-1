@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1694884463 source:d:\intania#2 semester 1\intro to data structures\grader\[d64_q2a_vector_block_swap] vector block swap\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1694884463 d:\intania#2 semester 1\intro to data structures\grader\[d64_q2a_vector_block_swap] vector block swap\vector.h
+	<stdexcept>
+	<iostream>
+
+1694886681 d:\intania#2 semester 1\intro to data structures\grader\[d64_q2a_vector_block_swap] vector block swap\student.h
+

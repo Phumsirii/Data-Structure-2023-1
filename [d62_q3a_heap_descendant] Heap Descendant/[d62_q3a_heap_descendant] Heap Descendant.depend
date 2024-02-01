@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697426689 source:d:\intania#2 semester 1\intro to data structures\grader\[d62_q3a_heap_descendant] heap descendant\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+

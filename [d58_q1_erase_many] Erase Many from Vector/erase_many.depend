@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1695004838 source:d:\intania#2 semester 1\intro to data structures\grader\[d58_q1_erase_many] erase many from vector\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1695004838 d:\intania#2 semester 1\intro to data structures\grader\[d58_q1_erase_many] erase many from vector\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1695006474 d:\intania#2 semester 1\intro to data structures\grader\[d58_q1_erase_many] erase many from vector\student.h
+

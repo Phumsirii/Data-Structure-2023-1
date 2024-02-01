@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1695310228 source:d:\intania#2 semester 1\intro to data structures\grader\[d64_q2c_stack_move_insert] move insert stack\main.cpp
+	<iostream>
+	<vector>
+	"stack.h"
+	"student.h"
+
+1695310228 d:\intania#2 semester 1\intro to data structures\grader\[d64_q2c_stack_move_insert] move insert stack\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+	"stack.h"
+
+1695738621 d:\intania#2 semester 1\intro to data structures\grader\[d64_q2c_stack_move_insert] move insert stack\student.h
+

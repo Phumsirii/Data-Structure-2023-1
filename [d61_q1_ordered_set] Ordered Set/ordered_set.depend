@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1695012571 source:d:\intania#2 semester 1\intro to data structures\grader\[d61_q1_ordered_set] ordered set\main.cpp
+	<iostream>
+	"student.h"
+
+1695013025 d:\intania#2 semester 1\intro to data structures\grader\[d61_q1_ordered_set] ordered set\student.h
+	<vector>
+	<map>
+

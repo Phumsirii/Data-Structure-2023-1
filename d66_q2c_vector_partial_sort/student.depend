@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1701530253 source:d:\2sem1\intro to data structures\grader\d66_q2c_vector_partial_sort\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1701530253 d:\2sem1\intro to data structures\grader\d66_q2c_vector_partial_sort\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1701531159 d:\2sem1\intro to data structures\grader\d66_q2c_vector_partial_sort\student.h
+	<vector>
+	<algorithm>
+

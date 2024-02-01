@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1698208418 source:d:\intania#2 semester 1\intro to data structures\grader\[d61_q2_splitlist] split list\main.cpp
+	<iostream>
+	"list.h"
+
+1698208417 d:\intania#2 semester 1\intro to data structures\grader\[d61_q2_splitlist] split list\list.h
+	<stdexcept>
+	<iostream>
+	"student.h"
+
+1698340785 d:\intania#2 semester 1\intro to data structures\grader\[d61_q2_splitlist] split list\student.h
+

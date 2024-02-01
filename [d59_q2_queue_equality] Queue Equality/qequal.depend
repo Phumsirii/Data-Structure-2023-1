@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1695219405 source:d:\intania#2 semester 1\intro to data structures\grader\[d59_q2_queue_equality] queue equality\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<stdexcept>
+	<iostream>
+	"queue.h"
+	"student.h"
+	<vector>
+
+1695217592 d:\intania#2 semester 1\intro to data structures\grader\[d59_q2_queue_equality] queue equality\queue.h
+	<stdexcept>
+	<iostream>
+
+1695221231 d:\intania#2 semester 1\intro to data structures\grader\[d59_q2_queue_equality] queue equality\student.h
+

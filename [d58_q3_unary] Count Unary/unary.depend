@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1699503387 source:d:\intania#2 semester 1\intro to data structures\grader\[d58_q3_unary] count unary\main.cpp
+	<vector>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+
+1699503387 d:\intania#2 semester 1\intro to data structures\grader\[d58_q3_unary] count unary\map_bst.h
+	<iostream>
+
+1699503645 d:\intania#2 semester 1\intro to data structures\grader\[d58_q3_unary] count unary\student.h
+

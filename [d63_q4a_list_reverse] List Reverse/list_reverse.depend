@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1698042341 source:d:\intania#2 semester 1\intro to data structures\grader\[d63_q4a_list_reverse] list reverse\main.cpp
+	<stdexcept>
+	<assert.h>
+	<vector>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string>
+	"list.h"
+	"student.h"
+
+1697947727 d:\intania#2 semester 1\intro to data structures\grader\[d63_q4a_list_reverse] list reverse\list.h
+	<stdexcept>
+	<iostream>
+
+1698042528 d:\intania#2 semester 1\intro to data structures\grader\[d63_q4a_list_reverse] list reverse\student.h
+	<algorithm>
+

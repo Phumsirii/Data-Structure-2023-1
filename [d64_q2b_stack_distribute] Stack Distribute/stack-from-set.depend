@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1695310274 source:d:\intania#2 semester 1\intro to data structures\grader\[d64_q2b_stack_distribute] stack distribute\main.cpp
+	<iostream>
+	<vector>
+	"stack.h"
+	"student.h"
+
+1695310274 d:\intania#2 semester 1\intro to data structures\grader\[d64_q2b_stack_distribute] stack distribute\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1695741225 d:\intania#2 semester 1\intro to data structures\grader\[d64_q2b_stack_distribute] stack distribute\student.h
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1700048975 source:d:\intania#2 semester 1\intro to data structures\grader\d65_q4a_bst_at_level\main.cpp
+	<stdexcept>
+	<iostream>
+	"map_bst.h"
+	"student.h"
+	<vector>
+
+1700049885 d:\intania#2 semester 1\intro to data structures\grader\d65_q4a_bst_at_level\map_bst.h
+	<iostream>
+	<vector>
+
+1700050007 d:\intania#2 semester 1\intro to data structures\grader\d65_q4a_bst_at_level\student.h
+	<algorithm>
+	<iostream>
+

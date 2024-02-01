@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1693221077 source:d:\intania#2 semester 1\intro to data structures\grader\[d63_q1b_list_erase] vector list erase\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<set>
+

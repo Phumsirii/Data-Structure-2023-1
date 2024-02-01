@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1697424517 source:d:\intania#2 semester 1\intro to data structures\grader\[ds03_heap_erase] heap erase\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<functional>
+	<iostream>
+	<stdexcept>
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1696217897 source:d:\intania#2 semester 1\intro to data structures\grader\[d64_q3b_queue_reverse] queue reverse\main.cpp
+	<iostream>
+	<string>
+	"queue.h"
+	"student.h"
+
+1696217898 d:\intania#2 semester 1\intro to data structures\grader\[d64_q3b_queue_reverse] queue reverse\queue.h
+	<stdexcept>
+	<iostream>
+
+1696235731 d:\intania#2 semester 1\intro to data structures\grader\[d64_q3b_queue_reverse] queue reverse\student.h
+	<cassert>
+

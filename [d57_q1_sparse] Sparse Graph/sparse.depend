@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1698547724 source:d:\intania#2 semester 1\intro to data structures\grader\[d57_q1_sparse] sparse graph\main_sparse.cpp
+	"sparsegraph.h"
+	<iostream>
+	<vector>
+
+1698578595 d:\intania#2 semester 1\intro to data structures\grader\[d57_q1_sparse] sparse graph\sparsegraph.h
+	<set>
+	<vector>
+

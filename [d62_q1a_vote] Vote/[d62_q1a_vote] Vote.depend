@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1692807122 source:d:\intania#2 semester 1\intro to data structures\grader\[d62_q1a_vote] vote\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1694947630 source:d:\intania#2 semester 1\intro to data structures\grader\[d57_q1_sbv2] stack by vector 2\test_stack.cpp
+	<iostream>
+	<stack>
+	<assert.h>
+	"stack.h"
+	"student.h"
+
+1694946204 d:\intania#2 semester 1\intro to data structures\grader\[d57_q1_sbv2] stack by vector 2\stack.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1694948773 d:\intania#2 semester 1\intro to data structures\grader\[d57_q1_sbv2] stack by vector 2\student.h
+	"stack.h"
+	<iostream>
+

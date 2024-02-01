@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1693195010 source:d:\intania#2 semester 1\intro to data structures\grader\[d59_q0_stack_concat] stack concatenate\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

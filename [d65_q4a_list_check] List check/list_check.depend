@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1698425800 source:d:\intania#2 semester 1\intro to data structures\grader\[d65_q4a_list_check] list check\main.cpp
+	<iostream>
+	<vector>
+	"list.h"
+	"student.h"
+
+1698425800 d:\intania#2 semester 1\intro to data structures\grader\[d65_q4a_list_check] list check\list.h
+	<stdexcept>
+	<iostream>
+
+1698426697 d:\intania#2 semester 1\intro to data structures\grader\[d65_q4a_list_check] list check\student.h
+

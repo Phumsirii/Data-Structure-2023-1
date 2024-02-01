@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1696216791 source:d:\intania#2 semester 1\intro to data structures\grader\[d65_q2b_split_stack] split stack\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"student.h"
+
+1696217749 d:\intania#2 semester 1\intro to data structures\grader\[d65_q2b_split_stack] split stack\student.h
+	"stack.h"
+	<algorithm>
+
+1696216791 d:\intania#2 semester 1\intro to data structures\grader\[d65_q2b_split_stack] split stack\stack.h
+	<stdexcept>
+	<iostream>
+	<set>
+

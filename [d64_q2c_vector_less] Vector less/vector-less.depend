@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1694956344 source:d:\intania#2 semester 1\intro to data structures\grader\[d64_q2c_vector_less] vector less\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	<cassert>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1694956344 d:\intania#2 semester 1\intro to data structures\grader\[d64_q2c_vector_less] vector less\vector.h
+	<stdexcept>
+	<iostream>
+
+1694960318 d:\intania#2 semester 1\intro to data structures\grader\[d64_q2c_vector_less] vector less\student.h
+
